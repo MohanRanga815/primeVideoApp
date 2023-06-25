@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.app-con {
+  background-color: #000000;
+  overflow: auto;
+}
+.prime-img {
+  width: 100%;
+}
+.movies-con {
+  margin: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+.heading {
+  text-align: left;
+  padding: 10px;
+  color: #ffffff;
+}
